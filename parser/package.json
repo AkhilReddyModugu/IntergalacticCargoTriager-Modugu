@@ -1,0 +1,9 @@
+{
+  "name": "intergalactic-cargo-parser",
+  "version": "1.0.0",
+  "description": "Parses intergalactic cargo manifests",
+  "main": "parser.js",
+  "scripts": {
+    "start": "node parser.js"
+  }
+}
