@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-001",
+    "weightInKg": 500,
+    "destination": "Mars Base Alpha"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-003",
+    "weightInKg": 250,
+    "destination": "Titan Colony"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-004",
+    "weightInKg": 80,
+    "destination": "Venus Floating Station"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-006",
+    "weightInKg": 305,
+    "destination": "Europa Ice Drill"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-007",
+    "weightInKg": 42,
+    "destination": "Asteroid Belt Hub"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-008",
+    "weightInKg": 9999,
+    "destination": "Earth"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-009",
+    "weightInKg": 150,
+    "destination": "Jupiter Orbital"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-010",
+    "weightInKg": 8,
+    "destination": "Pluto Research Facility"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-011",
+    "weightInKg": 600,
+    "destination": "Neptune Deep Space Relay"
+  },
+  {
+    "date": "2026-03-29",
+    "cargoId": "CRG-012",
+    "weightInKg": 145,
+    "destination": "Sector-7 Command Center"
+  }
+]
